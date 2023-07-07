@@ -1,0 +1,3 @@
+[submodule "FriendHub-frontend"]
+	path = frontend
+	url = https://github.com/radu781/FriendHub-frontend
